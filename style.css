@@ -1,0 +1,17 @@
+/* Basic clean style for your video page */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+video {
+  width: 80%;
+  height: auto;
+  border: 3px solid white;
+  border-radius: 10px;
+}
